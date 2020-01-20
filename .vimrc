@@ -7,6 +7,9 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'xiote/myvim'
 
+Plug 'https://tpope.io/vim/fugitive.git'
+Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+
 " Make sure you use single quotes
 
 " Shorthand notation; fetches https://github.com/junegunn/vim-easy-align
