@@ -11,7 +11,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'xiote/myvim'
 
 Plug 'https://tpope.io/vim/fugitive.git'
-"Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
 Plug 'vim-syntastic/syntastic'
