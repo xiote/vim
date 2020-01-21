@@ -1,3 +1,5 @@
+cabbre vimrc edit ~/github.com/xiote/vim/.vimrc
+
 " https://github.com/junegunn/vim-plug
 "
 " Specify a directory for plugins
@@ -11,6 +13,7 @@ Plug 'https://tpope.io/vim/fugitive.git'
 Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
+Plug 'vim-syntastic/syntastic'
 
 " Make sure you use single quotes
 
