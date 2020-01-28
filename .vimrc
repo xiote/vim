@@ -12,7 +12,6 @@ Plug 'xiote/myvim'
 
 Plug 'https://tpope.io/vim/fugitive.git'
 Plug 'SirVer/ultisnips'
-Plug 'jiangmiao/auto-pairs'
 Plug 'honza/vim-snippets'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
