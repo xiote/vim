@@ -13,6 +13,7 @@ Plug 'xiote/myvim'
 Plug 'https://tpope.io/vim/fugitive.git'
 Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
+Plug 'dominikduda/vim_current_word'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
 Plug 'vim-syntastic/syntastic'
