@@ -1,5 +1,6 @@
 cabbre vimrc edit ~/github.com/xiote/vim/.vimrc
 cabbre pu PlugUpdate
+cabbre cpvimrc !cp % ~/.vimrc
 
 " https://github.com/junegunn/vim-plug
 "
