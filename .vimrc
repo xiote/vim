@@ -11,16 +11,10 @@ call plug#begin('~/.vim/plugged')
 Plug 'xiote/myvim'
 
 Plug 'https://tpope.io/vim/fugitive.git'
-Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
 Plug 'vim-syntastic/syntastic'
-
-Plug 'Shougo/deoplete.nvim'
-Plug 'roxma/nvim-yarp'
-Plug 'roxma/vim-hug-neovim-rpc'
-let g:deoplete#enable_at_startup = 1
 
 " Make sure you use single quotes
 
