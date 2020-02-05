@@ -11,11 +11,13 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'xiote/myvim'
 
+Plug 'tpope/vim-surround'
 Plug 'https://tpope.io/vim/fugitive.git'
 Plug 'jiangmiao/auto-pairs'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
 Plug 'vim-syntastic/syntastic'
+
 
 " Make sure you use single quotes
 
