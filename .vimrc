@@ -15,7 +15,6 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
 Plug 'vim-syntastic/syntastic'
-Plug 'zxqfl/tabnine-vim'
 
 " Make sure you use single quotes
 
