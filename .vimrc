@@ -15,7 +15,6 @@ Plug 'https://tpope.io/vim/fugitive.git'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'vimwiki/vimwiki'
 Plug 'vim-syntastic/syntastic'
-Plug 'pearofducks/ansible-vim'
 
 " Make sure you use single quotes
 
