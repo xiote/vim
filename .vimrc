@@ -14,6 +14,7 @@ Plug 'xiote/myvim'
 Plug 'https://tpope.io/vim/fugitive.git'
 
 Plug 'vim-syntastic/syntastic'
+Plug 'dense-analysis/ale'
 
 Plug 'pearofducks/ansible-vim'
 
