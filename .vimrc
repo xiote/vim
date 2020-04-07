@@ -19,6 +19,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'bumaociyuan/vim-swift'
 Plug 'dense-analysis/ale'
+Plug 'Chiel92/vim-autoformat'
 
 " Make sure you use single quotes
 
