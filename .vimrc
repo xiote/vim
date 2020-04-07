@@ -17,6 +17,7 @@ Plug 'vim-syntastic/syntastic'
 Plug 'pearofducks/ansible-vim'
 Plug 'scrooloose/nerdtree'
 Plug 'OmniSharp/omnisharp-vim'
+Plug 'bumaociyuan/vim-swift'
 
 " Make sure you use single quotes
 
