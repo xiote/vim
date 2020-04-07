@@ -33,8 +33,6 @@ Plug 'OmniSharp/omnisharp-vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'pearofducks/ansible-vim'
 
-Plug 'ryanoasis/vim-devicons'
-Plug 'vim-airline/vim-airline'
 Plug 'ctrlpvim/ctrlp.vim'
 
 " Make sure you use single quotes
