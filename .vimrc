@@ -21,7 +21,7 @@ Plug 'prabirshrestha/vim-lsp'
 Plug 'prabirshrestha/async.vim'
 Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
-Plug 'ryanolsonx/vim-lsp-swift'
+Plug 'mattn/vim-lsp-settings'
 
 " language
 Plug 'OmniSharp/omnisharp-vim'
