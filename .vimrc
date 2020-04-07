@@ -23,7 +23,6 @@ Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 
 " language
-Plug 'ryanolsonx/vim-lsp-swift'
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
