@@ -11,12 +11,13 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'xiote/myvim'
 
+" git
 Plug 'https://tpope.io/vim/fugitive.git'
-
+" syntax highlight
 Plug 'vim-syntastic/syntastic'
+" realtime lint
 Plug 'dense-analysis/ale'
 
-Plug 'pearofducks/ansible-vim'
 
 Plug 'scrooloose/nerdtree'
 
@@ -27,8 +28,16 @@ Plug 'prabirshrestha/asyncomplete-lsp.vim'
 
 Plug 'mattn/vim-lsp-settings'
 
+" language
 Plug 'keith/swift.vim'
+Plug 'OmniSharp/omnisharp-vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plug 'pearofducks/ansible-vim'
+
+
+Plug 'ryanoasis/vim-devicons'
+Plug 'vim-airline/vim-airline'
+Plug 'ctrlpvim/ctrlp.vim'
 
 " Make sure you use single quotes
 
