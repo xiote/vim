@@ -14,9 +14,6 @@ Plug 'xiote/myvim'
 " git
 Plug 'https://tpope.io/vim/fugitive.git'
 
-" realtime lint
-Plug 'dense-analysis/ale'
-
 
 Plug 'scrooloose/nerdtree'
 
@@ -26,12 +23,8 @@ Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 
 " language
-Plug 'keith/swift.vim'
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
-Plug 'pearofducks/ansible-vim'
-
-Plug 'ctrlpvim/ctrlp.vim'
 
 " Make sure you use single quotes
 
