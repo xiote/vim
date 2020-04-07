@@ -22,6 +22,7 @@ Plug 'dense-analysis/ale'
 Plug 'Chiel92/vim-autoformat'
 Plug 'prabirshrestha/async.vim'
 Plug 'prabirshrestha/vim-lsp'
+Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'mattn/vim-lsp-settings'
 
 " Make sure you use single quotes
