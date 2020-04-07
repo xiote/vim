@@ -13,8 +13,7 @@ Plug 'xiote/myvim'
 
 " git
 Plug 'https://tpope.io/vim/fugitive.git'
-" syntax highlight
-Plug 'vim-syntastic/syntastic'
+
 " realtime lint
 Plug 'dense-analysis/ale'
 
@@ -33,7 +32,6 @@ Plug 'keith/swift.vim'
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'pearofducks/ansible-vim'
-
 
 Plug 'ryanoasis/vim-devicons'
 Plug 'vim-airline/vim-airline'
