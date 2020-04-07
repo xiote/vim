@@ -17,12 +17,10 @@ Plug 'vim-syntastic/syntastic'
 Plug 'pearofducks/ansible-vim'
 Plug 'scrooloose/nerdtree'
 Plug 'OmniSharp/omnisharp-vim'
-Plug 'bumaociyuan/vim-swift'
-Plug 'dense-analysis/ale'
-Plug 'Chiel92/vim-autoformat'
 Plug 'prabirshrestha/async.vim'
 Plug 'prabirshrestha/vim-lsp'
 Plug 'prabirshrestha/asyncomplete.vim'
+Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'mattn/vim-lsp-settings'
 
 " Make sure you use single quotes
