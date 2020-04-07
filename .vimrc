@@ -18,6 +18,7 @@ Plug 'pearofducks/ansible-vim'
 Plug 'scrooloose/nerdtree'
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'bumaociyuan/vim-swift'
+Plug 'dense-analysis/ale'
 
 " Make sure you use single quotes
 
