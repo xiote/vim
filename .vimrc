@@ -25,8 +25,6 @@ Plug 'prabirshrestha/async.vim'
 Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 
-Plug 'mattn/vim-lsp-settings'
-
 " language
 Plug 'keith/swift.vim'
 Plug 'OmniSharp/omnisharp-vim'
