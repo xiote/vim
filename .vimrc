@@ -23,8 +23,14 @@ Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'mattn/vim-lsp-settings'
 
+" syntax checker
+Plug 'dense-analysis/ale'
+Plug 'vim-syntastic/syntastic'
+
 " language
 Plug 'keith/swift.vim'
+Plug 'bumaociyuan/vim-swift'
+Plug 'lilyball/vim-swift'
 Plug 'OmniSharp/omnisharp-vim'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
