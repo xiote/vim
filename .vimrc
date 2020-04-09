@@ -23,8 +23,6 @@ Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'mattn/vim-lsp-settings'
 
-Plug '907th/vim-auto-save'
-
 " syntax checker
 Plug 'dense-analysis/ale'
 Plug 'vim-syntastic/syntastic'
@@ -34,7 +32,8 @@ Plug 'keith/swift.vim'
 Plug 'bumaociyuan/vim-swift'
 Plug 'lilyball/vim-swift'
 Plug 'OmniSharp/omnisharp-vim'
-Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+"Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plug 'fatih/vim-go'
 
 " Make sure you use single quotes
 
