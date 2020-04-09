@@ -16,7 +16,7 @@ Plug 'https://tpope.io/vim/fugitive.git'
 
 Plug '907th/vim-auto-save'
 
-Plug 'scrooloose/nerdtree'
+"Plug 'scrooloose/nerdtree'
 
 Plug 'prabirshrestha/vim-lsp'
 Plug 'prabirshrestha/async.vim'
