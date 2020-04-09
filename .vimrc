@@ -23,6 +23,8 @@ Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'mattn/vim-lsp-settings'
 
+Plug '907th/vim-auto-save'
+
 " syntax checker
 Plug 'dense-analysis/ale'
 Plug 'vim-syntastic/syntastic'
