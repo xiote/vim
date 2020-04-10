@@ -14,6 +14,9 @@ Plug 'xiote/myvim'
 " git
 Plug 'https://tpope.io/vim/fugitive.git'
 
+" bar
+Plug 'vim-airline/vim-airline'
+
 Plug '907th/vim-auto-save'
 
 Plug 'scrooloose/nerdtree'
