@@ -18,12 +18,6 @@ Plug '907th/vim-auto-save'
 
 Plug 'scrooloose/nerdtree'
 
-Plug 'prabirshrestha/vim-lsp'
-Plug 'prabirshrestha/async.vim'
-Plug 'prabirshrestha/asyncomplete.vim'
-Plug 'prabirshrestha/asyncomplete-lsp.vim'
-Plug 'mattn/vim-lsp-settings'
-
 " syntax checker
 Plug 'dense-analysis/ale'
 Plug 'vim-syntastic/syntastic'
