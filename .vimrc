@@ -16,6 +16,7 @@ Plug 'https://tpope.io/vim/fugitive.git'
 
 " bar
 Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 
 Plug '907th/vim-auto-save'
 
