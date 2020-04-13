@@ -20,7 +20,10 @@ Plug 'vim-airline/vim-airline-themes'
 
 Plug '907th/vim-auto-save'
 
+" explorer
 Plug 'scrooloose/nerdtree'
+
+Plug 'jiangmiao/auto-pairs'
 
 " syntax checker
 Plug 'dense-analysis/ale'
