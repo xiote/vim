@@ -23,8 +23,6 @@ Plug '907th/vim-auto-save'
 " explorer
 Plug 'scrooloose/nerdtree'
 
-Plug 'jiangmiao/auto-pairs'
-
 " syntax checker
 Plug 'dense-analysis/ale'
 Plug 'vim-syntastic/syntastic'
