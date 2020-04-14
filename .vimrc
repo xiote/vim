@@ -28,7 +28,6 @@ Plug 'dense-analysis/ale'
 Plug 'vim-syntastic/syntastic'
 
 " language
-Plug 'hdiniz/vim-gradle'
 Plug 'keith/swift.vim'
 Plug 'bumaociyuan/vim-swift'
 Plug 'lilyball/vim-swift'
