@@ -35,6 +35,9 @@ Plug 'OmniSharp/omnisharp-vim'
 "Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'fatih/vim-go'
 
+" snips
+Plug 'SirVer/ultisnips'
+
 " Make sure you use single quotes
 
 " Shorthand notation; fetches https://github.com/junegunn/vim-easy-align
