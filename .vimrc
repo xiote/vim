@@ -35,8 +35,12 @@ Plug 'OmniSharp/omnisharp-vim'
 "Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'fatih/vim-go'
 
-" snips
+" snips plugin
 Plug 'SirVer/ultisnips'
+
+" snips template
+Plug 'honza/vim-snippets'
+
 
 " Make sure you use single quotes
 
